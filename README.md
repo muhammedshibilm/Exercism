@@ -39,7 +39,7 @@ If you have improvements or alternative Dart solutions, contributions are welcom
 
 ## 📬 Contact
 
-Feel free to reach out to me at [muhammedshibilm321@gmail.com] for any questions or feedback!
+Feel free to reach out to me at muhammedshibilm321@gmail.com for any questions or feedback!
 
 ---
 

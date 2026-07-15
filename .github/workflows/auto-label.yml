@@ -1,0 +1,21 @@
+name: Auto Label PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write      # required to create/apply labels
+  models: read        # required only if AI fallback is enabled
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: muhammedshibilm/auto-labeler-action@v1.0.0
+        # optional inputs:
+        # with:
+        #   model: openai/gpt-4o-mini
+        #   enable_ai_fallback: "true"

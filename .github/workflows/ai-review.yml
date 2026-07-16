@@ -17,4 +17,4 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: muhammedshibilm/ai-pr-review-action@v1.0.0
+      - uses: muhammedshibilm/ai-pr-review-action@v1.2.0

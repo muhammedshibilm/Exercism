@@ -1,6 +1,3 @@
-Here is a clean, professional template for your `README.md` file tailored for an Exercism repository. You can copy and paste this directly into your repo.
-
-```markdown
 # 🧠 Exercism Solutions
 
 <p align="center">
@@ -57,15 +54,7 @@ Exercism/
 
 ## 👤 Connect With Me
 
-* **Exercism Profile:** [muhammedshibilm](https://www.google.com/search?q=https://exercism.org/profiles/muhammedshibilm)
+* **Exercism Profile:** [muhammedshibilm](https://exercism.org/profiles/muhammedshibilm)
 * **GitHub:** [@muhammedshibilm](https://github.com/muhammedshibilm)
-
-```
-
-### How to add it:
-1. Go to your repository on GitHub: `[https://github.com/muhammedshibilm/Exercism](https://github.com/muhammedshibilm/Exercism)`
-2. Click on **Add file** -> **Create new file**.
-3. Name the file `README.md`.
-4. Paste the markdown content above and click **Commit changes**.
 
 ```

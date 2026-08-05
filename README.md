@@ -1,4 +1,4 @@
-# 🧠 Exercism Solutions
+# Exercism Solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Exercism-00b894?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism">

@@ -51,10 +51,3 @@ Exercism/
 * **Continuous Learning:** Exploring different ways to solve problems cleanly and efficiently.
 
 ---
-
-## 👤 Connect With Me
-
-* **Exercism Profile:** [muhammedshibilm](https://exercism.org/profiles/muhammedshibilm)
-* **GitHub:** [@muhammedshibilm](https://github.com/muhammedshibilm)
-
-```
